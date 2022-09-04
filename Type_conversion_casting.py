@@ -39,7 +39,7 @@ print(f,type(f))
 
 g='4.7'
 print(type(g))
-print(int(g)) # ValueError
+print(int(g))            # ValueError
 h=float(g)
 print(h,type(h))
 i=int(h)
