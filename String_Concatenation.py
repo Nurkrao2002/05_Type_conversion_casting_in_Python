@@ -25,6 +25,11 @@ print('hi', 4)
 print(''+'hi')
 print(' '+'hi')
 
+print('hello'+''+'python')
+print('hello'+' '+'python')
+print('hello'+'  '+'python')
+print('hello'+'      '+'python')
+
 
 
 
