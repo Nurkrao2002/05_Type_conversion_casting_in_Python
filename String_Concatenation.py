@@ -15,3 +15,18 @@ print(a+a)
 print(b+a)
 
 
+
+a='python' ; b=3 ; c='3.10.6'
+print(a+str(b))
+print(a+c)
+
+print('hi', 4)
+
+print(''+'hi')
+print(' '+'hi')
+
+
+
+
+
+
