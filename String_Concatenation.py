@@ -30,6 +30,24 @@ print('hello'+' '+'python')
 print('hello'+'  '+'python')
 print('hello'+'      '+'python')
 
+print('py',3)
+print('hi'+'we are using python version'+'3.10.6')
+print('hi','we are using python version','3.10.6')
+print('hi'+' '+'we are using python version'+' '+'3.10.6')
+
+
+print('hi'+' '+str(5))
+
+
+print(1,2,3,4,5)
+print('1'+' '+'2'+' '+'3'+' '+'4'+' '+'5')
+print('1'+'  '+'2'+'  '+'3'+'  '+'4'+'  '+'5')
+print(1,2,3,4,5,sep='')
+print(1,2,3,4,5,sep=' ')
+print(1,2,3,4,5,sep='-')
+print(1,2,3,4,5,sep=' - ')
+print(1,2,3,4,5,sep=' -> ')
+
 
 
 
