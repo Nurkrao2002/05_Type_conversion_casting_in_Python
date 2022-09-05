@@ -7,3 +7,11 @@ print(a+b) # 10.7
 x='hi' ; y=5 ; z=6.7
 print(x+y)
 print(x+z)
+
+
+a='he' ; b='y'
+print(a+b)
+print(a+a)
+print(b+a)
+
+
